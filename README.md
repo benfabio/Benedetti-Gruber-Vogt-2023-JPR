@@ -1,3 +1,5 @@
+<img width="1024" height="362" alt="plankton-1024" src="https://github.com/user-attachments/assets/f4312e7e-2127-4223-8e01-a6b36e35d8d5" />
+
 ### Last update: 07/10/2023
 
 ### Benedetti et al. (2023) Global gradients in species richness of marine plankton functional groups (Journal of Plankton Research)
